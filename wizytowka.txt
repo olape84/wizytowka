@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="pl">
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <h1><strong>Witaj na mojej stronie domowej!</strong></h1>
+
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+
+ 
+
+    <body>
+
+<h2>O mnie</h2>
+
+<img scr ="c:\Użytkownicy\Ola\Pobrane\DSC_3707.JPG" alt="ja i las" title="ja w lesie">
+
+<h3><strong>imię:</strong> Aleksandra</h3>
+
+<h3><strong>nazwisko:</strong> Przywrzej</h3>
+
+    </body>
+
+</html>
+
+ 
+
+<!DOCTYPE html>
+
+<html lang="pl">
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <h1><strong>Witaj na mojej stronie domowej!</strong></h1>
+
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+
+ 
+
+    <body>
+
+ 
+
+<h2>Kontakt</h2>
+
+<img scr ="c:\Użytkownicy\Ola\Pobrane\DSC_3707.JPG" alt="ja i las" title="ja w lesie">
+
+<ul>email: przepjurka@gmail.com</ul>
+
+<ul>telefon: 123-456-789</ul>
+
+<div class="container">
+  <form action="action_page.php">
+
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
+
+ 
+
+    </body>
+
+</html>
+
+ 
+
+ 
